@@ -1,0 +1,58 @@
+[
+    {
+        "automatic": false,
+        "order": 2,
+        "title": "M1",
+        "uuid": "JVZY0ACN-LK7F-AJ1D-BGU4-KMHUGLL83S2U",
+        "sites": [
+            {
+                "title": "PostgreSQL Benchmarks: Apple ARM M1 MacBook Pro 2020 : PostgreSQL",
+                "url": "https://www.reddit.com/r/PostgreSQL/comments/jxv104/postgresql_benchmarks_apple_arm_m1_macbook_pro/"
+            },
+            {
+                "title": "Running Node.js natively on Apple Silicon | Component-Driven",
+                "url": "https://www.component-driven.dev/articles/native-node-on-m1"
+            },
+            {
+                "title": "GitHub - okonet/dotfiles",
+                "url": "https://github.com/okonet/dotfiles"
+            },
+            {
+                "title": "O Apple silicon está pronto?",
+                "url": "https://isapplesiliconready.com/br"
+            },
+            {
+                "title": "(40) M1 Mac SSD Swap Issues Explained: Should you be WORRIED? - YouTube",
+                "url": "https://www.youtube.com/watch?v=nuOBsXOaP38"
+            },
+            {
+                "title": "Apple M1 · Issue #86 · donmelton/other_video_transcoding · GitHub",
+                "url": "https://github.com/donmelton/other_video_transcoding/issues/86"
+            }
+        ]
+    },
+    {
+        "automatic": false,
+        "order": 1,
+        "title": "Fit4Purpose",
+        "uuid": "T1K5792B-IKL8-URQ7-SBF0-REHHWKTRBBOD",
+        "sites": [
+            {
+                "title": "#44 Andressa Chiara - Mas que raios é Fit for Purpose? by Product Guru's • A podcast on Anchor",
+                "url": "https://anchor.fm/product-gurus/episodes/44-Andressa-Chiara---Mas-que-raios--Fit-for-Purpose-ehje27"
+            },
+            {
+                "title": "@agileminas | Linktree",
+                "url": "https://linktr.ee/agileminas"
+            },
+            {
+                "title": "Telegram: Contact @F4Pcommunity",
+                "url": "https://t.me/F4Pcommunity"
+            },
+            {
+                "title": "Podcast Love The Problem",
+                "url": "https://k21.global/lovetheproblem"
+            }
+        ]
+    }
+]
